@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Getting Started with BCMD",
+    "children": [
+      {
+        "route": "bcmd/config",
+        "title": "Config Setup",
+        "markdown": "bcmd/config.md"
+      }
+    ]
+  }
+]
